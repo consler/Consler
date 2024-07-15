@@ -1,16 +1,20 @@
-## Hi there 👋
+# Consler here
 
-<!--
-**consler/Consler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Good morning, day and evening to everyone reading this!**
 
-Here are some ideas to get you started:
+Not really much to say. I am a **developer**. From **Ukraine**. A **teen**. Love and fight for **freedom**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Btw, this is my hero:
+
+![Linus Torvals is supposed to be here](https://github.com/consler/Consler/blob/main/linus_torvals.png)
+
+<sub> Credts to [this guy](https://www.reddit.com/r/linuxmasterrace/comments/qng9b3/made_a_polygon_portrait_of_linus_torvalds/)</sub>
+
+## My projects
+[STPL](https://github.com/consler/STPL)
+
+[Gemoji](https://github.com/consler/Gemoji)
+
+[The-Gold-IDE](https://github.com/consler/The-Gold-IDE)
+
+[Confy](https://github.com/consler/Confy)
