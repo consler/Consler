@@ -13,6 +13,8 @@ Btw, this is my hero:
 ## My projects
 [STPL](https://github.com/consler/STPL)
 
+[Cat The Builder](https://github.com/consler/cat-the-builder)
+
 [Gemoji](https://github.com/consler/Gemoji)
 
 [The-Gold-IDE](https://github.com/consler/The-Gold-IDE)
