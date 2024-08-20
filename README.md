@@ -15,6 +15,8 @@ Btw, this is my hero:
 
 [Cat The Builder](https://github.com/consler/cat-the-builder)
 
+[Batpu2-vm-AUR](https://github.com/consler/Batpu2-VM-AUR)
+
 [Gemoji](https://github.com/consler/Gemoji)
 
 [The-Gold-IDE](https://github.com/consler/The-Gold-IDE)
