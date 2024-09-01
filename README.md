@@ -17,6 +17,8 @@ Btw, this is my hero:
 
 [Batpu2-VM-AUR](https://github.com/consler/Batpu2-VM-AUR)
 
+[LaC Retweet](https://github.com/consler/LaC-Retweet)
+
 [Gemoji](https://github.com/consler/Gemoji)
 
 [The-Gold-IDE](https://github.com/consler/The-Gold-IDE)
