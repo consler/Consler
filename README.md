@@ -6,11 +6,11 @@ Not really much to say. I am a **developer**. From **Ukraine**. A **teen**. Love
 
 Btw, this is my hero:
 
-![Linus Torvals is supposed to be here](https://github.com/consler/Consler/blob/main/linus_torvals.png)
+![Linus Torvalds is supposed to be here](https://github.com/consler/Consler/blob/main/linus_torvals.png)
 
 <sub> Credts to [this guy](https://www.reddit.com/r/linuxmasterrace/comments/qng9b3/made_a_polygon_portrait_of_linus_torvalds/)</sub>
 
-## My projects
+## My small projects
 [STPL](https://github.com/consler/STPL)
 
 [Cat The Builder](https://github.com/consler/cat-the-builder)
