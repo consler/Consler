@@ -1,6 +1,6 @@
 # Consler here
 
-**Good morning, day and evening to everyone reading this!**
+**Good morning, day, and evening to everyone reading this!**
 I don't have much to say, so why don't you check out my *small* projects?
 
 <img src="https://github.com/consler/Consler/blob/main/pfp.jpg" width="200">
