@@ -12,4 +12,6 @@ I don't have much to say, so why don't you check out my *small* projects?
 
 [Batpu2-VM-AUR](https://github.com/consler/Batpu2-VM-AUR)
 
-[Cat the builder](https://github.com/consler/cat-the-builder)
+[Cat the builder desktop](https://github.com/consler/cat-the-builder)
+
+[Cat the builder android app](https://github.com/consler/Cat-The-Builder-App)
