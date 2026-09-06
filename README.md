@@ -8,9 +8,9 @@ I don't have much to say, so why don't you check my projects out?
 
 ## The *my projects*
 
-[Karma](https://github.com/consler/Karma)
+[LibreLauncherLib](https://github.com/consler/LibreLauncherLib)
 
-[CatPL](https://github.com/consler/CatPL)
+[Karma](https://github.com/consler/Karma)
 
 [Cat the builder android app](https://github.com/consler/Cat-The-Builder-App)
 
