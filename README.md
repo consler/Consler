@@ -1,19 +1,15 @@
 # Consler here
 
-**Good morning, day, and evening to everyone reading this!**
+**Good morning, day, and evening to anyone checking out my profile!**
 
-I don't have much to say, so why don't you check my projects out?
+![GitHub Stats Card](https://ghstats.dev/api/card?username=consler&show_ring=false&hide=prs%2Cissues%2Cgrade%2Ccontributions%2Chours)
 
-<img src="https://github.com/consler/Consler/blob/main/pfp.jpg" width="200">
+## My projects!!
 
-## The *my projects*
+* [LibreLauncher](https://github.com/consler/LibreLauncher)
 
-[LibreLauncherLib](https://github.com/consler/LibreLauncherLib)
+* [Cat The Builder](https://github.com/consler/Cat-The-Builder-App)
 
-[Karma](https://github.com/consler/Karma)
+* [Karma](https://github.com/consler/Karma)
 
-[Cat the builder android app](https://github.com/consler/Cat-The-Builder-App)
-
-[Cat the builder desktop](https://github.com/consler/cat-the-builder)
-
-[Batpu2-VM-AUR](https://github.com/consler/Batpu2-VM-AUR)
+* [LibreLauncherLib](https://github.com/consler/LibreLauncherLib)
